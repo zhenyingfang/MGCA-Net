@@ -1,5 +1,4 @@
 #!/bin/bash
-cd /root/autodl-tmp/code/OV_TAL/MGCA_Net/
 
 for i in {0..9}; do
     CUDA_VISIBLE_DEVICES=0 torchrun \
