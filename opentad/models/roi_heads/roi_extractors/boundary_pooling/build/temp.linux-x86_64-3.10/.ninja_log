@@ -1,0 +1,7 @@
+# ninja log v5
+0	21339	1747894359428728500	/data/zhenying/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_kernel.o	f1ee58d5815fcdb5
+0	21471	1747894359580729646	/data/zhenying/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_cuda.o	fc0a34b6c9d9dfd7
+5	15294	1749222544257888576	/root/autodl-tmp/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_cuda.o	ba827706d2eb154d
+5	17005	1749222545938339280	/root/autodl-tmp/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_kernel.o	571c17f67da78561
+34	14870	1749728459956752313	/root/autodl-tmp/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_cuda.o	ba827706d2eb154d
+34	16848	1749728461904713558	/root/autodl-tmp/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_kernel.o	571c17f67da78561

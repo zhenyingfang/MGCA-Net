@@ -1,0 +1,7 @@
+# ninja log v5
+1	21523	1747894305320326873	/data/zhenying/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda_kernal.o	7f99e61d6ba290a3
+1	23232	1747894307048339510	/data/zhenying/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda.o	94ac3032bdcd3617
+5	15248	1749222524774883656	/root/autodl-tmp/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda.o	56194372db2ed012
+5	17267	1749222526768739896	/root/autodl-tmp/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda_kernal.o	3339289be2ed972c
+34	15091	1749728440746717588	/root/autodl-tmp/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda.o	56194372db2ed012
+35	17229	1749728442854118753	/root/autodl-tmp/code/OV_TAL/OV_OpenTAL/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda_kernal.o	3339289be2ed972c
